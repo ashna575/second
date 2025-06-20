@@ -10,7 +10,7 @@ function App() {
 
 return (
   <div className="text-pink-200 text-4xl font-serif italic p-6 ">
-  hello 
+  hello this is fuirsf  ciodfjdo
   </div>
 );
 }
